@@ -1,5 +1,4 @@
 {
-  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
